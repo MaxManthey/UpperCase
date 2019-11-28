@@ -1,0 +1,1 @@
+macht alles zu uppercase
